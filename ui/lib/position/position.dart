@@ -1,0 +1,1 @@
+export 'view/position_page.dart';
