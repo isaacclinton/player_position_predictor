@@ -15,6 +15,9 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter_bloc: ^8.1.1
 
+  predictor:
+    path: ../predictor
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -27,3 +30,4 @@ flutter:
 
   assets:
     - assets/pitch/
+    - assets/
